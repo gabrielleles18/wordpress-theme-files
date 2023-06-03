@@ -1,0 +1,8 @@
+/*
+!/docker-compose.yml
+!/wp-content/
+/wp-content/themes/*
+!/wp-content/themes/index.php
+!/wp-content/themes/theme-base
+!/.env
+!/.gitignore
