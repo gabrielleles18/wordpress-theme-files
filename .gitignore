@@ -6,3 +6,4 @@
 !/wp-content/themes/theme-base
 !/.env
 !/.gitignore
+!/README.md
